@@ -1,6 +1,5 @@
 package com.molinaromarcos.springmongodb.config;
 
-import org.assertj.core.util.Arrays;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;
